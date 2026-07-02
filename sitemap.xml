@@ -180,6 +180,16 @@
 
   <!-- Other Key Pages -->
   <url>
+    <loc>https://simplewaterservice.com/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://simplewaterservice.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://simplewaterservice.com/financing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
